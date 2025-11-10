@@ -2,4 +2,4 @@
 Open source codebase of AI
 
 ---
-<small>Disclaimer: All code in repository is modified for security reasons before making it open source. Main purpose is to giving back to community and help development. For app execution, code might need refactoring. We suggest to take reference or use it on your own risk.</small>
+Disclaimer: This repository contains code that has been modified for security and privacy reasons before being made open source. Its primary purpose is to contribute to the developer community and support learning. Some parts may require refactoring to run as intended. This code is provided for educational purposes only and without warranty of any kind.
